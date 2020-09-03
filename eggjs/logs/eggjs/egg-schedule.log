@@ -1,0 +1,117 @@
+2020-09-03 11:20:11,316 INFO 80190 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61788686ms at 2020-09-04 04:30:00.002
+2020-09-03 11:20:11,317 INFO 80190 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 45588684ms at 2020-09-04 00:00:00.001
+2020-09-03 11:20:11,317 INFO 80190 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45589683ms at 2020-09-04 00:00:01.000
+2020-09-03 11:20:11,250 INFO 80191 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 11:20:11,250 INFO 80191 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 11:20:11,250 INFO 80191 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 11:21:53,103 INFO 80237 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61686900ms at 2020-09-04 04:30:00.003
+2020-09-03 11:21:53,103 INFO 80237 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 45486897ms at 2020-09-04 00:00:00.000
+2020-09-03 11:21:53,103 INFO 80237 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45487897ms at 2020-09-04 00:00:01.000
+2020-09-03 11:21:53,013 INFO 80238 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 11:21:53,013 INFO 80238 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 11:21:53,013 INFO 80238 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 11:22:24,674 INFO 80266 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61655328ms at 2020-09-04 04:30:00.002
+2020-09-03 11:22:24,675 INFO 80266 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 45455326ms at 2020-09-04 00:00:00.001
+2020-09-03 11:22:24,675 INFO 80266 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45456325ms at 2020-09-04 00:00:01.000
+2020-09-03 11:22:24,448 INFO 80270 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 11:22:24,448 INFO 80270 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 11:22:24,448 INFO 80270 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 11:22:42,984 INFO 80281 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61637018ms at 2020-09-04 04:30:00.002
+2020-09-03 11:22:42,984 INFO 80281 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 45437016ms at 2020-09-04 00:00:00.000
+2020-09-03 11:22:42,985 INFO 80281 [Timer] /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45438016ms at 2020-09-04 00:00:01.001
+2020-09-03 11:22:42,923 INFO 80282 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 11:22:42,923 INFO 80282 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 11:22:42,923 INFO 80282 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 11:51:55,077 INFO 80645 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 11:51:55,077 INFO 80645 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 11:51:55,077 INFO 80645 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 11:51:58,665 INFO 80648 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 11:51:58,665 INFO 80648 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 11:51:58,665 INFO 80648 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 11:52:19,316 INFO 80651 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 11:52:19,316 INFO 80651 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 11:52:19,316 INFO 80651 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 13:42:33,698 INFO 81320 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 13:42:33,698 INFO 81320 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 13:42:33,698 INFO 81320 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 13:43:25,048 INFO 81338 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 13:43:25,048 INFO 81338 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 13:43:25,048 INFO 81338 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 13:45:14,094 INFO 81379 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 13:45:14,094 INFO 81379 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 13:45:14,094 INFO 81379 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 13:45:40,472 INFO 81383 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 13:45:40,472 INFO 81383 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 13:45:40,472 INFO 81383 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 14:12:31,961 INFO 81533 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 14:12:31,961 INFO 81533 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 14:12:31,961 INFO 81533 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 14:15:53,087 INFO 81603 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 14:15:53,087 INFO 81603 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 14:15:53,087 INFO 81603 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 14:15:53,702 INFO 81604 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 14:15:53,702 INFO 81604 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 14:15:53,702 INFO 81604 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 14:15:54,567 INFO 81609 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 14:15:54,567 INFO 81609 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 14:15:54,567 INFO 81609 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 14:18:57,977 INFO 81652 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 14:18:57,977 INFO 81652 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 14:18:57,977 INFO 81652 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:19:46,755 INFO 81957 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:19:46,755 INFO 81957 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:19:46,755 INFO 81957 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:19:49,532 INFO 81986 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:19:49,532 INFO 81986 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:19:49,532 INFO 81986 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:19:52,244 INFO 81996 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:19:52,244 INFO 81996 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:19:52,244 INFO 81996 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:21:49,176 INFO 82027 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:21:49,176 INFO 82027 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:21:49,176 INFO 82027 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:22:43,640 INFO 82042 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:22:43,640 INFO 82042 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:22:43,640 INFO 82042 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:22:45,583 INFO 82047 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:22:45,583 INFO 82047 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:22:45,583 INFO 82047 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:28:21,910 INFO 82064 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:28:21,910 INFO 82064 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:28:21,910 INFO 82064 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:28:37,987 INFO 82090 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:28:37,987 INFO 82090 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:28:37,987 INFO 82090 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:28:46,310 INFO 82093 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:28:46,310 INFO 82093 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:28:46,310 INFO 82093 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:28:47,974 INFO 82095 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:28:47,974 INFO 82095 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:28:47,974 INFO 82095 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:29:48,607 INFO 82099 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:29:48,607 INFO 82099 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:29:48,607 INFO 82099 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:29:53,069 INFO 82106 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:29:53,069 INFO 82106 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:29:53,069 INFO 82106 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:33:21,870 INFO 82149 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:33:21,870 INFO 82149 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:33:21,870 INFO 82149 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:33:28,403 INFO 82159 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:33:28,403 INFO 82159 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:33:28,403 INFO 82159 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:53:15,173 INFO 82324 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:53:15,173 INFO 82324 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:53:15,173 INFO 82324 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:53:40,938 INFO 82330 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:53:40,939 INFO 82330 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:53:40,939 INFO 82330 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 15:53:59,353 INFO 82332 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 15:53:59,353 INFO 82332 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 15:53:59,353 INFO 82332 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 18:17:58,115 INFO 83243 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 18:17:58,115 INFO 83243 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 18:17:58,115 INFO 83243 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-09-03 18:18:01,503 INFO 83245 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-multipart@2.10.3@egg-multipart/app/schedule/clean_tmpdir.js
+2020-09-03 18:18:01,503 INFO 83245 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-09-03 18:18:01,503 INFO 83245 [egg-schedule]: register schedule /Users/ty/kkb/eggjs/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js

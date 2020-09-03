@@ -1,0 +1,106 @@
+2020-09-03 14:12:39,726 ERROR 81533 [-/::1/-/5033ms GET /] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%2214%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5026,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 81533
+hostname: zhangruideiMac.local
+
+2020-09-03 14:16:04,230 ERROR 81609 [-/::1/-/5031ms GET /] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%2214%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5023,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 81609
+hostname: zhangruideiMac.local
+
+2020-09-03 14:20:46,850 ERROR 81652 [-/::1/-/5034ms GET /] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%2214%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5026,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 81652
+hostname: zhangruideiMac.local
+
+2020-09-03 15:28:24,218 WARN 82064 [-/::1/-/25ms GET /] nodejs.JSONResponseFormatError: Unexpected token M in JSON at position 0 (data json format: "Malicious Path"), GET http://192.168.8.57:38080//app/mock/template/206 400 (connected: true, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"192.168.8.57:38080:":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 1)
+headers: {"content-type":"text/plain; charset=utf-8","content-length":"14","date":"Thu, 03 Sep 2020 07:28:24 GMT","connection":"keep-alive"}
+headers: {"content-type":"text/plain; charset=utf-8","content-length":"14","date":"Thu, 03 Sep 2020 07:28:24 GMT","connection":"keep-alive"}
+    at JSON.parse (<anonymous>)
+    at parseJSON (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:1190:24)
+    at /Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:895:23
+    at decodeContent (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:699:14)
+    at handleResponseCloseAndEnd (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:876:7)
+    at IncomingMessage.<anonymous> (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:920:7)
+    at IncomingMessage.emit (events.js:228:7)
+    at endReadableNT (_stream_readable.js:1185:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+name: "JSONResponseFormatError"
+data: "Malicious Path"
+path: "//app/mock/template/206?orderBy=%22%24key%22&startAt=%220%22&endAt=%2214%22"
+status: 400
+headers: {"content-type":"text/plain; charset=utf-8","content-length":"14","date":"Thu, 03 Sep 2020 07:28:24 GMT","connection":"keep-alive"}
+res: {"status":400,"statusCode":400,"statusMessage":"Bad Request","headers":{"content-type":"text/plain; charset=utf-8","content-length":"14","date":"Thu, 03 Sep 2020 07:28:24 GMT","connection":"keep-alive"},"size":14,"aborted":false,"rt":18,"keepAliveSocket":false,"data":"Malicious Path","requestUrls":["http://192.168.8.57:38080//app/mock/template/206"],"timing":null,"remoteAddress":"192.168.8.57","remotePort":38080,"socketHandledRequests":1,"socketHandledResponses":1}
+pid: 82064
+hostname: zhangruideiMac.local
+
+2020-09-03 15:28:48,195 WARN 82095 [-/::1/-/75ms GET /] nodejs.JSONResponseFormatError: Unexpected token N in JSON at position 0 (data json format: "Not Found"), GET http://192.168.8.57:38080/item/.json 404 (connected: true, keepalive socket: true, agent status: {"createSocketCount":7,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":1,"freeSockets":{},"sockets":{"192.168.8.57:38080:":7},"requests":{}}, socketHandledRequests: 2, socketHandledResponses: 2)
+headers: {"access-control-allow-origin":"*","access-control-allow-methods":"POST, GET, PUT, DELETE, OPTIONS","access-control-allow-credentials":"true","vary":"Origin","set-cookie":["koa.sid=5DwrR0UzbnyN5079w3O-g66uoM5UcHBi; path=/; expires=Fri, 04 Sep 2020 07:28:48 GMT; httponly","koa.sid.sig=9AobnfLcZ-GIFMbf8VRl2fGsXrQ; path=/; expires=Fri, 04 Sep 2020 07:28:48 GMT; httponly"],"content-type":"text/plain; charset=utf-8","content-length":"9","date":"Thu, 03 Sep 2020 07:28:48 GMT","connection":"keep-alive"}
+headers: {"access-control-allow-origin":"*","access-control-allow-methods":"POST, GET, PUT, DELETE, OPTIONS","access-control-allow-credentials":"true","vary":"Origin","set-cookie":["koa.sid=5DwrR0UzbnyN5079w3O-g66uoM5UcHBi; path=/; expires=Fri, 04 Sep 2020 07:28:48 GMT; httponly","koa.sid.sig=9AobnfLcZ-GIFMbf8VRl2fGsXrQ; path=/; expires=Fri, 04 Sep 2020 07:28:48 GMT; httponly"],"content-type":"text/plain; charset=utf-8","content-length":"9","date":"Thu, 03 Sep 2020 07:28:48 GMT","connection":"keep-alive"}
+    at JSON.parse (<anonymous>)
+    at parseJSON (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:1190:24)
+    at /Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:895:23
+    at decodeContent (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:699:14)
+    at handleResponseCloseAndEnd (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:876:7)
+    at IncomingMessage.<anonymous> (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:920:7)
+    at IncomingMessage.emit (events.js:228:7)
+    at endReadableNT (_stream_readable.js:1185:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+name: "JSONResponseFormatError"
+data: "Not Found"
+path: "/item/.json"
+status: 404
+headers: {"access-control-allow-origin":"*","access-control-allow-methods":"POST, GET, PUT, DELETE, OPTIONS","access-control-allow-credentials":"true","vary":"Origin","set-cookie":["koa.sid=5DwrR0UzbnyN5079w3O-g66uoM5UcHBi; path=/; expires=Fri, 04 Sep 2020 07:28:48 GMT; httponly","koa.sid.sig=9AobnfLcZ-GIFMbf8VRl2fGsXrQ; path=/; expires=Fri, 04 Sep 2020 07:28:48 GMT; httponly"],"content-type":"text/plain; charset=utf-8","content-length":"9","date":"Thu, 03 Sep 2020 07:28:48 GMT","connection":"keep-alive"}
+res: {"status":404,"statusCode":404,"statusMessage":"Not Found","headers":{"access-control-allow-origin":"*","access-control-allow-methods":"POST, GET, PUT, DELETE, OPTIONS","access-control-allow-credentials":"true","vary":"Origin","set-cookie":["koa.sid=5DwrR0UzbnyN5079w3O-g66uoM5UcHBi; path=/; expires=Fri, 04 Sep 2020 07:28:48 GMT; httponly","koa.sid.sig=9AobnfLcZ-GIFMbf8VRl2fGsXrQ; path=/; expires=Fri, 04 Sep 2020 07:28:48 GMT; httponly"],"content-type":"text/plain; charset=utf-8","content-length":"9","date":"Thu, 03 Sep 2020 07:28:48 GMT","connection":"keep-alive"},"size":9,"aborted":false,"rt":9,"keepAliveSocket":true,"data":"Not Found","requestUrls":["http://192.168.8.57:38080/item/.json"],"timing":null,"remoteAddress":"192.168.8.57","remotePort":38080,"socketHandledRequests":2,"socketHandledResponses":2}
+pid: 82095
+hostname: zhangruideiMac.local
+
+2020-09-03 15:29:58,846 ERROR 82106 [-/::1/-/5035ms GET /] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/ty/kkb/eggjs/node_modules/_urllib@2.36.1@urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%2214%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5028,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 82106
+hostname: zhangruideiMac.local
+
